@@ -1,0 +1,5 @@
+{
+  "test_pet_friends.py::test_post_new_pet_with_valid_data": true,
+  "test_pet_friends.py::test_get_find_pet_by_id": true,
+  "test_pet_friends.py::test_get_all_pets_with_invalid_key": true
+}
